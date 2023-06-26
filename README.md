@@ -1,1 +1,1 @@
-# Bike-sharingcase-study
+# Bike-sharing case-study
